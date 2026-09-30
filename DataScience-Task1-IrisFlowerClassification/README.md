@@ -124,7 +124,7 @@ pip install -r requirements.txt
 If the project uses Streamlit:
 
 ```bash
-streamlit run frontend/streamlit_app.py
+python -m streamlit run frontend/streamlit_app.py
 ```
 
 If the project uses Flask:
